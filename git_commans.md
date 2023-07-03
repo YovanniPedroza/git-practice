@@ -10,12 +10,12 @@ git checkout: Cambia a la rama especificada
 
 git log: Muestra un registro de commits realizados en la rama actual
 
-git branch:
+git branch: Muestra una lista de las ramas en el repositorio y resalta la rama actual
 
-git add:
+git add: Añade un archivo al área de preparación (staging area) para ser commitado
 
-git commit:
+git commit: Realiza un commit con los cambios preparados en el área de preparación
 
-git push:
+git push: 
 
 git merge:
