@@ -16,6 +16,6 @@ git add: Añade un archivo al área de preparación (staging area) para ser comm
 
 git commit: Realiza un commit con los cambios preparados en el área de preparación
 
-git push: 
+git push: Envía tus commits locales al repositorio remoto
 
-git merge:
+git merge: Fusiona la rama especificada con tu rama actual
